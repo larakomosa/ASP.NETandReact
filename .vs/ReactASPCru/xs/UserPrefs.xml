@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{A65FDDA7-8E2D-43A4-9792-0818E0470C4E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReactASPCru/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="ReactASPCru/Startup.cs" Line="1" Column="1" />
+      <File FileName="ReactASPCru/Program.cs" Line="1" Column="1" />
+      <File FileName="ReactASPCru/appsettings.json" Line="1" Column="1" />
+      <File FileName="ReactASPCru/User.cs" Line="12" Column="2" />
+      <File FileName="ReactASPCru/UserService.cs" Line="48" Column="36" />
+      <File FileName="ReactASPCru/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReactASPCru" expanded="True">
+            <Node name="ReactASPCru" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ReactASPCru FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
